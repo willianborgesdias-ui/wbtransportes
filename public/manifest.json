@@ -1,0 +1,17 @@
+{
+  "name": "WB Coletas & Entregas Express",
+  "short_name": "WB Express",
+  "description": "Especialistas em coletas e entregas expressas e logística administrativa em Itajaí e SC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#010204",
+  "theme_color": "#00eaff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "src/assets/images/wb_logo_official_1780796730369.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
